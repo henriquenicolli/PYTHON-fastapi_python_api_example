@@ -1,4 +1,8 @@
 
-python -m pip install fastapi uvicorn
+## Exemplo de uma API utilizando python (fastapi)
 
-uvicorn main:app --reload
+Exemplo de uma aplicação rodando em python que disponibiliza uma API
+
+ python -m pip install fastapi uvicorn
+
+ uvicorn main:app --reload
